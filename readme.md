@@ -9,6 +9,10 @@ Welcome to the Machine Learning Cheat Sheets repository! This collection of chea
 3. [Model Evaluation Cheat Sheet](./eval_cheat_sheet.md)
 4. [Model Architectures Cheat Sheet](./architectures_cheat_sheet.md)
 
+## SKLearn Cheat Sheet
+
+![Choosing the right algorithm (sklearn)](https://scikit-learn.org/stable/machine_learning_map.html)
+
 ## Data Preprocessing and Loading Cheat Sheet
 
 This cheat sheet covers essential techniques and methods for preprocessing and loading data in machine learning projects. It includes:
