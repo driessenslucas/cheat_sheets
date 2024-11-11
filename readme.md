@@ -8,6 +8,7 @@ Welcome to the Machine Learning Cheat Sheets repository! This collection of chea
 2. [PyTorch syntax Cheat Sheet](./pytorch_cheat_sheet.md)
 3. [Model Evaluation Cheat Sheet](./eval_cheat_sheet.md)
 4. [Model Architectures Cheat Sheet](./architectures_cheat_sheet.md)
+5. [Machine Learning Algorithms](./machine_learning_algorithms.md)
 
 ## SKLearn Cheat Sheet
 
