@@ -13,6 +13,7 @@ Welcome to the Machine Learning Cheat Sheets repository! This collection of chea
 ## SKLearn Cheat Sheet
 
 [Choosing the right algorithm (sklearn)](https://scikit-learn.org/stable/machine_learning_map.html)
+![Choosing](./images/image.png)
 
 ## Data Preprocessing and Loading Cheat Sheet
 

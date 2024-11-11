@@ -2,6 +2,7 @@
 
 A summary of important machine learning algorithms, including definitions, use cases, and Python code examples.
 
+![choosing](./images/image.png)
 ---
 
 ## 1. Linear Regression
